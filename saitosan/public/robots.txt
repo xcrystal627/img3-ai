@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://saitosan.ime-3.com
+
+# Sitemaps
+Sitemap: https://saitosan.ime-3.com/sitemap.xml
